@@ -1,0 +1,32 @@
+body
+{
+	background-image: url(img2/673328.png);
+	background-position: top; 
+}
+
+h1
+{
+	color: red;
+}
+
+p
+{
+	color: orangered;
+}
+
+h2
+{
+	color: greenyellow;
+}
+
+
+a
+{
+	color: red;
+}
+
+img
+{
+	width: 624px;
+	height: 417px;
+}
